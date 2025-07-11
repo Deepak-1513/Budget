@@ -1,4 +1,4 @@
-💰 Budget Buddy
+💰 **Budget Buddy**: 
 Budget Buddy is a simple, lightweight expense tracker that helps you manage your daily spending. With features like dark mode toggle, local data storage, and live balance updates — it's your personal budgeting assistant, right in the browser!
 
 🌟 Features
